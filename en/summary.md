@@ -14,6 +14,8 @@
 * [Operating Vehicles](operating_vehicles.md)
 * [The Commander](commander.md)
 * [The Civilian](the_civilian.md)
+* [Tracker and Battle Recorder](replays.md)
+* [Vehicle Icons](vehicle_icons.md)
 
 ### Help
 * [Expand manual](help_manual.md)

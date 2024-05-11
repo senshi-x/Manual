@@ -10,11 +10,13 @@
     "honkit-plugin-reality-theme": "file:packages/reality-theme"
   },
   "devDependencies": {
+    "@types/node": "^20.12.11",
     "honkit": "^4.0.7"
   },
   "scripts": {
     "build": "honkit build",
-    "serve": "honkit serve"
+    "serve": "honkit serve",
+    "rebuildvehicleicons": "node scripts/rebuildvehicleicons.js"
   },
   "repository": {
     "type": "git",
