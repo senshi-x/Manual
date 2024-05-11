@@ -129,3 +129,4 @@
     <img src="../assets/asset_icons/mini_trk_logi_small.png" alt="trk_logi_small">
     <img src="../assets/asset_icons/mini_trk_supp.png" alt="trk_supp">
 </div>
+</div>

@@ -53,3 +53,4 @@ for (const classname in sorted) {
     console.log(`</div>
 `)
 };
+console.log(`</div>`)
